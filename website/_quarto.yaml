@@ -3,11 +3,11 @@ project:
   output-dir: public
 
 website:
-  title: "websi"
+  title: "MAVEX"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: home
       - about.qmd
 format:
   html:
