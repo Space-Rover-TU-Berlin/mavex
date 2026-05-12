@@ -1,0 +1,109 @@
+---
+author: Koustubh S.
+date: 2025-05-12
+title: "GIT VCS"
+institute: FU-Berlin
+---
+
+# Introduction
+Git is a Version Control System. Essentially it helps teams manage text collaboratively. This text can be programming source code, legal documents, scientific literature, manuals, artistic literature etc.
+
+Essentially anything that requires large scale collaboration over a long period of time with conscious effort to avoid diffing conflicts.
+
+## Installing Git
+
+### Windows
+There are two main options to install Git on Windows. You can either use the Windows Subsystem for Linux (WSL) or you can use Git-Bash. 
+
+The WSL method is recommended. Use the other method if WSL is not available on your version of Windows.
+
+#### Windows Subsystem for Linux (WSL)
+This is nothing but a Linux distribution running on top of Windows. It allows you to use Linux command line tools and applications directly on Windows without the need for a virtual machine or dual-boot setup.
+
+##### Enabling WSL
+Run the following command to install Debian on WSL. You can also choose other distributions if you want, but Debian is recommended.
+
+- Win + X and select "Windows PowerShell (Admin)"
+- Run the following commands in the PowerShell terminal to enable WSL and install Debian
+
+``` powershell
+wsl --set-default-version 2
+wsl --install -d Debian
+```
+
+You can also go through these articles
+- <https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux>
+- <https://learn.microsoft.com/en-us/windows/wsl/install>
+- <https://youtu.be/qDjXyM3teKU>
+
+You can also watch the following Video to make yourself familliar with the process
+- <https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-git>
+
+##### Installing Git on WSL
+After enabling git, simply follow the instructions for **debian** in the GNU/Linux section below.
+
+
+You can also watch the following Video to make yourself familliar with the process
+<https://youtu.be/E95VbmFHpM0?si=Ry7Z17MO6-Ko2jjf>
+
+#### Git-Bash
+
+Watch this tutorial and follow the instructions 
+<https://youtu.be/5wcC-T2VRRk?si=JOWL74aZyOosEOCL>
+
+### MacOS
+Git should be preinstalled with the current versions of macOS
+
+### GNU/Linux
+Git is generally available by the package managers of various GNU/Linux distributions.
+
+#### Debian (and derivatives)
+``` bash
+sudo apt install git
+```
+
+#### Fedora (and derivatives)
+``` bash
+sudo dnf install git
+```
+
+## Setup SSH Keys
+- Open a terminal
+- Run the following command to generate a new SSH key pair. Make sure to replace `<your-email-address>` with your actual email address.
+``` bash
+ssh-keygen -t ed25519 -C "<your-email-address>"
+```
+- Upload your ssh public key to Gitlab. You can find the public key in `~/.ssh/id_ed25519.pub`.
+- DO NOT upload your private key (`~/.ssh/id_ed25519`) to Gitlab or share it with anyone. It is meant to be kept secret.
+
+## Working with Git
+Following is a list of resources that one can use to get familiarize with Git operations
+- <https://git-scm.com/book/en/v2>
+- <https://www.atlassian.com/git/tutorials>
+- <https://docs.gitlab.com/topics/git/>
+- <https://git-scm.com/docs/gittutorial>
+
+### Make your first change
+1. Clone the repository on your local machine
+``` bash
+git clone git@git.tu-berlin.de:mavex/via/gitlab/plain-html-pages.git
+``` 
+
+2. Create a new branch for your changes
+``` bash
+git checkout -b first-change
+```
+
+3. Make your changes and commit them
+
+``` bash
+git add .
+git commit -m "My first change"
+```
+
+4. Push your changes to the remote repository
+``` bash
+    git push origin first-change
+```
+
+5. Create a Merge Request

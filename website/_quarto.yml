@@ -8,6 +8,8 @@ website:
     left:
       - href: bill-of-materials.qmd
         text: BoM
+      - href: git-tutorial.qmd
+        text: GIT VCS
       - href: 2026/procurement.qmd
         text: "2026"
 format:
