@@ -1,0 +1,9 @@
+---
+author: Koustubh S.
+title: ERC2026
+institue: Berlin University Alliance
+---
+
+# 2026
+- [Procurement](procurement.qmd)
+- [Demonstration](demo-video.qmd)
