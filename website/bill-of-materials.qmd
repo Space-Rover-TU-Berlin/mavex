@@ -1,0 +1,15 @@
+---
+author: Koustubh S.
+title: Bill of Materials
+institute: Berlin University Alliance
+---
+
+# Bill of Materials
+
+| # | Particular | Quantity | Comments      |
+|---|------------|----------|---------------|
+| 1 | Motors     | 4        |               |
+| 2 | Propellers | 4        |               |
+| 3 | Body       | 1        | Has Cracks    |
+| 4 | Batteries  | 2        | One is broken |
+|   |            |          |               |

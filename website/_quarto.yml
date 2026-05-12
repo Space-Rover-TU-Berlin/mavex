@@ -6,9 +6,10 @@ website:
   title: "MAVEX"
   navbar:
     left:
-      - href: index.qmd
-        text: home
-      - about.qmd
+      - href: bill-of-materials.qmd
+        text: BoM
+      - href: 2026/procurement.qmd
+        text: "2026"
 format:
   html:
     theme: cosmo
