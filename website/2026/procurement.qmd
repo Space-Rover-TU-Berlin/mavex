@@ -1,0 +1,22 @@
+---
+author: Koustubh S.
+title: Procurement
+institute: Berlin University Alliance
+---
+
+# Procurement
+Things that need to be procured
+
+## List
+| # | Particulars         | Price(€) | Qty | Hyperlink           |
+|---|---------------------|----------|-----|---------------------|
+| 1 | Screws              |          |     |                     |
+| 2 | GPS Stand           | 10       | 1   | AmazonGPSstand [^1] |
+| 3 | Matlab/Simulink     |          | 1   | MathWorksERC [^2]   |
+| 4 | Raspberry PI        |          | 1   |                     |
+| 5 | Raspberry PI Camera |          | 1   |                     |
+| 6 | Battery             |          | 2   |                     |
+|   |                     |          |     |                     |
+
+[^1]: <https://www.amazon.de/-/en/Create-idea-Foldable-Aluminium-Compatible-black/dp/B0FBFK5X6X/ref=sr_1_3?crid=ZQMW8887UT3&dib=eyJ2IjoiMSJ9.M9GitgV-JLMfGxYJVnjopSnRDmzTSPEL8pWQSGwump4PJupQLT960cpbXNdCCqBX5NBVS1HBZYJPcwNHHxEhFLMtM0BUvDSWqs5FsUzwOupFCb17acsYWpcRx9lRUSfjWQNwP7b4kGcBVtYyqizDLv_T1D_izqi5A0bsewBtoFykdYwYKFagE0t7P8UrW3nam9z8BF8_PUaVzoWccGZM-xOCmJL03wPPaag4bIrOl6I.7-EQCZ6pfaVv8TBfp3qASEdZWNluV9LpfK6JuEDE8_8&dib_tag=se&keywords=GPS%2Bholder%2Bfor%2Bdrones&qid=1778155896&sprefix=gps%2Bholder%2Bfor%2Bdrones%2Caps%2C186&sr=8-3&th=1To%2Bbe%2Bprocured%2BASAP%2B(2%2BUnits))>
+[^2]: <https://mathworks.com/academia/student-competitions/european-rover.html>
