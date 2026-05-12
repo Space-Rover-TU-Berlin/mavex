@@ -1,0 +1,42 @@
+---
+author: Robert Wolff
+title: Minutes of Meeting
+institute: 2026 Drone Team
+---
+
+# 11.05.2026 - meeting points
+
+1) Koustubh creates a repository in the git hub for the meeting protocolls
+
+2) Akshat has asked around for the missing parts of the drone. Thea are unretrievable
+
+3) Distribution of roles:
+	a general distribution of rols was discussed last meeting and found insufficiently precise. It is decided that we should define the specific work packages first before distributing them
+
+4) Creation of list of work packages on the miro board
+
+5) Distribution of tasks for drone repair
+	Nelli - GPS Stand switch
+	Robert - landing feet repair
+	Akshat - fram fracture fixing
+
+6) Creation of procurement list
+	Nelli asks to order the GPS stand now and be reimbursed later. Koustubh intends to ask Timothy about that
+
+7) Koustubh will check the requirements for the Video and curate the procurement list
+
+8) We all will look acitvely for a sponsorship for the raspberry pi
+
+9) The issue about the procurement of new batteries is put into a ticket
+
+10) Koustubh is unanimously chosen as new teamleader
+
+11) Koustubh will introduce Nelli and Robert to Git. The date will be discussed in the discord
+
+12) A procurement list is created on discord
+	when creating an entry, supply the following:
+		itemnumber in plain text
+		link
+		price
+
+13) Weekly sinc up meetings are set on Mondays 4:15 to 5:15 PM on discord

@@ -1,0 +1,72 @@
+---
+author: Akshat
+title: Minutes of Meeting
+institute: 2026 Drone Team
+---
+
+# 8th May 2026 - meeting points
+
+	1) The batteries for the drone are in the studisatlab
+	2) Weight of the category - C1 category - more than 250 g and less than 2 kg, 2-25 - C2, 25 - 150 C3, above 150 kg - military
+	3) 800 -900 grams of the current drone
+	4) Acc to EASA standards organization
+	5) Unique ID number - alphanumeric code
+	6) Current ID registered under Vasantha name
+	7) Need to register it under one of our names or Cem or MSE name
+	8) There are practice tests for the test and 3 attempts for the main test - 30 euros cost
+	9) Need to also get a insurance for the drone - third party insurance of the drone
+	10) Check liability insurances
+	11) We don’t need anything as we are flying in a cage - a restricted airspace
+	12) A700 quasi isentropic carbon fiber frame - excellent strength to weight ratio. 4 brushless dc motors.
+	13) They produce high rpm and torque
+	14) Tri-blade 5 inch propellers.
+	15) Electronics speed controller(at the center of the drone) - driver of the motors
+	16) ESC is connected to the flight controller
+	17) Flight controller stabilizes the aircraft
+	18) We have a gimbal joystick - remote
+	19) Ask about the raspberry Pi from last year for autonomous navigation
+	20) We might require the thermal camera for prob navigation
+	21) Raspberry Pi is needed for sure
+	22) Need to reweigh the complete drone with batteries as the weight categories might have changes by the govt
+	23) There are 2 GPS on the drone - differential GPS navigation in a GNSS denied environment
+	24) 2 smaller antennas are for telemetry
+	25) They are 2 small telemetry radios
+	26) The last red one - antenna transmits the feed out.
+	27) Need to figure out a way to use python and Simulink for one of the drone ancillary tasks like power estimation to satisfy the ERC competition rules
+	28) Small batteries have some defects. Bigger ones work better, fully operational.
+	29) Ardupilot is the configurator. (Also q ground control) but ardupilot is better
+	30) If LED is blue - ready to fly, if LED is blinking same pattern in green color - ready to fly with goes assistance which means if something goes wrong and lost control of drone then drone will know by itself what action to perform.
+	31) If they are flashing in yellow or amber - some setup is not ready, drone cannot take off no matter what.
+	32) RED - horribly wrong
+	33) Never change any values on the Extended Tuning page
+	34) Edge TX - OS for the controller
+
+
+
+	Whats missing :-
+	Camera - not required
+	Telemetry antennas
+	Raspberry Pi (from Dema)
+	Spare propellers missing one set - 4 of them
+	X+LRS radio module - its ports are damaged a bit
+
+
+Add hardware
+Program the Raspberry Pi
+Hardware fixing of the drones
+
+Electrical hardware - fix the rasberry pi and have it mounted on the drone, camera interfaces,
+
+Fly for the video :- The frame, the feet and antennas
+
+International space drone challenge
+
+Work packages :-
+
+Mechanical hardware - Nelli
+Electrical hardware - Akshat
+Software programming the Pi - Koustubh
+Sponsorship - Nelli
+Mechanical + software work - Robert
+
+In flight computer phase everything needs to be done through ROS
