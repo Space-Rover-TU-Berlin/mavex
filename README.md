@@ -8,7 +8,21 @@ the quadcopter configuration. They could be remotely operated or
 autonomously functioning.
 
 ## Engg
-- quarto
-- latex
+### Tools
+- [quarto](https://quarto.org/)
+- [latex](https://www.latex-project.org/)
+- [make](https://www.gnu.org/software/make/)
+
+### Howto
+#### Generate the website locally
+``` bash
+cd website
+make html
+```
+
+The website is then generated in the `website/public` folder.
+``` bash
+open website/public/index.html
+```
 
 ## References
