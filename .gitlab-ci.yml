@@ -17,7 +17,7 @@ create-pages:
   script:
     - cd website
     - quarto render
-    - mv ../public
+    - mv public ../
   pages: true
     # The folder that contains the files to be exposed at the Page URL
     #publish: website/public
