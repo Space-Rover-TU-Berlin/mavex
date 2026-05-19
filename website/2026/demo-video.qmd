@@ -1,18 +1,15 @@
 ---
-author: Koustubh S.
-title: Demonstration
-institue: Berlin University Alliance
+title: Demonstration Video
 ---
 
-# Video
-## Requirements
+# Requirements
 The rules for the **Video Material** (demo video) are a critical part
 of the **Preliminary Design Review (PDR) Step 2** and serve as a
 primary basis for qualification for the ERC 2026 finals,. Teams must
 prepare this promotional material to demonstrate their readiness and
 the technical capabilities of their hardware,.
 
-### 1. Submission and Technical Requirements
+## Submission and Technical Requirements
 -   **Deadline:** The video must be submitted by **31 May 2026** (23:59 CEST),,,.
 -   **Length:** The maximum allowed length is **10 minutes**,,,.
 -   **Platform:** It should be uploaded to a popular video service
@@ -21,7 +18,7 @@ the technical capabilities of their hardware,.
 -   **Aesthetics:** The video is scored on visual aesthetics and the
     presentation skills of the team,.
 
-### 2. Mandatory Content and Sequence
+## Mandatory Content and Sequence
 The video must follow a **strict sequence** (Sections 1–7) to ensure
 judges can easily identify and score each element. Failure to follow
 this sequence may result in a score of **0 points** for missed
@@ -38,7 +35,7 @@ elements. The required sections are:
     other tools,.
 7.  **Quality:** Overall aesthetics and presentation,.
 
-### 3. Crucial Mobility "No-Cut" Rules
+## Crucial Mobility "No-Cut" Rules
 The sources emphasize that certain maneuvers **must be recorded in a
 single sequence without any video cuts**. Intentional manipulation to
 bypass these rules carries a heavy **-30 point penalty**.
@@ -52,18 +49,18 @@ bypass these rules carries a heavy **-30 point penalty**.
     and **landing**,. A separate cut is allowed to demonstrate the
     **autoland** safety feature,.
 
-### **4. Scoring and Penalties**
+## Scoring and Penalties
 The video material is worth a maximum of **100 points** toward the
-total documentation score,,. Key penalties include:
--   **Wrong Sequence:** -5 points.
--   **Exceeded Length:** -10 points.
--   **Cuts in Mandatory Sequences:** -5 points.
--   **Intentional Manipulation:** -30 points.
+total documentation score.
+
+Key penalties include:
+
+- **Wrong Sequence:** -5 points.
+- **Exceeded Length:** -10 points.
+- **Cuts in Mandatory Sequences:** -5 points.
+- **Intentional Manipulation:** -30 points.
 
 __Pro-tip:__ To ensure judges do not miss critical features, it is
 highly recommended to provide **timestamps** in the video description
 or display **small titles** in the corner of the screen for each
 section.
-
-Would you like me to find the specific scoring weights for each of
-these video sections?

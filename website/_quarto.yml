@@ -6,14 +6,17 @@ website:
   title: "MAVEX"
   navbar:
     left:
-      - href: bill-of-materials.qmd
-        text: BoM
-      - href: git-tutorial.qmd
-        text: GIT VCS
-      - href: 2026/procurement.qmd
+      - href: inventory/index.qmd
+        text: Inventory
+      - href: learning/index.qmd
+        text: Learning
+      - href: 2026/index.qmd
         text: "2026"
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: flatly
+      dark: darkly
+    respect-user-color-scheme: true
     toc: true
+    toc-depth: 6
