@@ -1,0 +1,19 @@
+---
+title: Batteries
+---
+
+The batteries are self made with little to no documentation
+
+## Sedaro (Big One)
+### Charging Parameters
+- Type: LiIon (Tried Once)
+- Voltage: 4V
+- Current: 4.2 A
+
+## Exotrail (Small One)
+- Status the charging cable is damaged
+
+### Charging Parameters
+- Type: LiIon (Assumption)
+- Voltage: 9.8V
+- Current: 4.2 A

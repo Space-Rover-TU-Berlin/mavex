@@ -4,12 +4,37 @@ title: Bill of Materials
 institute: Berlin University Alliance
 ---
 
-# Bill of Materials
+## Inventory
 
-| # | Particular | Quantity | Comments      |
-|---|------------|----------|---------------|
-| 1 | Motors     | 4        |               |
-| 2 | Propellers | 4        |               |
-| 3 | Body       | 1        | Has Cracks    |
-| 4 | Batteries  | 2        | One is broken |
-|   |            |          |               |
+| #  | Particular        | Manufacture               | Quantity | Comments              |
+|----|-------------------|---------------------------|----------|-----------------------|
+| 1  | Motors            | Cinequads Special Edition | 4        |                       |
+| 2  | Propellers        |                           | 4        |                       |
+| 3  | Body              |                           | 1        | Has Cracks            |
+| 4  | Batteries         |                           | 2        | One is broken         |
+| 5  | Ethernet Shield 2 | Arduino                   | 1        | Unsure if its working |
+| 6  | Switching Adapter | CUI Inc                   | 1        |                       |
+| 7  | Frame             | Cinequads Lumenier        | 1        |                       |
+| 8  | GPS Antenna       |                           | 1        |                       |
+| 9  | GPS Antenna       |                           | 1        |                       |
+| 10 | Flight Controller |                           | 1        |                       |
+| 11 | Motor Controller  |                           | 1        |                       |
+
+## Description
+| #  | Particulars       | Description                                              |
+|----|-------------------|----------------------------------------------------------|
+| 1  | Frame             | Aerospace grade carbon fiber frame with 225 mm wheelbase |
+| 2  | Propellers        | Tri-blade (5153) high-pitch polycarbonate propellers     |
+| 3  | Motors            | 1800 Kv BLDC motors with (28mm * 07mm) stator size       |
+| 4  | ESC               | 32 Bit 60A 4in1 Electronic Speed Controller              |
+| 5  | Power module      | Power brick mini 15W output                              |
+| 6  | Flight Controller | Pixhawk Cube Black with chibiOS & Ardupilot Frimware     |
+| 7  | Telemetry         | RF Design EU868Ux - (500mW / 868 MHz)                    |
+| 8  | Telecommand       | ELRS RP1 - (100mW / 2.4 GHz) Full Duplex Receiver        |
+| 9  | Video Transmitter | Analog 48CH - (2.5W / 5.8 GHz) VTx                       |
+| 10 | TT&C Antennas     | 1x Omnidirrectional (5.8 GHz) & 2x Dipole (868 MHz)      |
+| 11 | Primary Camera    | Analog 1500TVL 6ms Low Latency CMOS Camera.              |
+| 12 | Secondary Camera  | Digital 4K 60FPS GoPro for HD recording                  |
+| 13 | GPS 1             | Radiolink S100 - (1.3GHz, L1 band)                       |
+| 14 | GPS 2             | Here 3+ CAN - (1.3GHz, L2 band)                          |
+| 15 | Battery           | Tesla Lithium-Ion 6SIP (22.2V / 4.5A / 10C)              |

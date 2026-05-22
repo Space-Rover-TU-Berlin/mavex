@@ -3,3 +3,6 @@ title: Inventory
 ---
 
 - [Bill of Materials](bill-of-materials.qmd)
+- [Batteries](batteries.qmd)
+- [Frame](frame.qmd)
+- [Motors](motors.qmd)
