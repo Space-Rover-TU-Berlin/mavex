@@ -2,9 +2,14 @@
 author: Koustubh S.
 title: Bill of Materials
 institute: Berlin University Alliance
+jupyter: python3
 ---
 
 ## Inventory
+
+``` {python}
+import pandas as pd
+```
 
 | #  | Particular        | Manufacture               | Quantity | Comments              |
 |----|-------------------|---------------------------|----------|-----------------------|
