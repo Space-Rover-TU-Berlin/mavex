@@ -12,6 +12,8 @@ autonomously functioning.
 - [quarto](https://quarto.org/)
 - [latex](https://www.latex-project.org/)
 - [make](https://www.gnu.org/software/make/)
+- [python]()
+- [R]()
 
 ### Howto
 #### Generate the website locally

@@ -15,9 +15,9 @@ workflow:
 create-pages:
   stage: deploy
   script:
-    - cd website
+    - cd project/doc
     - quarto render
-    - mv public ../
+    - mv public ../../
   pages: true
     # The folder that contains the files to be exposed at the Page URL
     #publish: website/public

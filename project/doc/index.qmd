@@ -1,5 +1,4 @@
 ---
-author: Koustubh S.
 title: MAVEX
 institute: Berlin University Alliance
 ---
