@@ -1,0 +1,44 @@
+---
+Preflight Checklist
+---
+
+## Before the flight
+
+### Flight Area
+- [ ] Confirm if the fly spot is in Restricted Airspace, Restricted Zone or GEO Zone.
+- [ ] Check for temporary flight restrictions in the area
+
+### Quadcopter
+- [ ] Ensure the drone and remote control batteries are fully charged
+- [ ] Check batteries for swelling, leaks and proper installation
+
+## Before powering on
+### Flight Area
+- [ ]  Check for good weather
+  - Adequate sunlight
+  - No strong winds
+  - No Rain
+  - No Fog
+- [ ] Avoid crowded areas like gatherings
+- [ ] Avoid tall dense buildings
+- [ ] Avoid areas with high electromagnetic interference (e.g., near power lines, cell towers)
+- [ ] Avoid taking off in areas with poor GPS signal like indoors or on balconies
+- [ ] Avoid taking off from moving surfaces like vehicles and boats
+- [ ] Avoid taking off in sandy or dusty environments like beaches or construction sites
+- [ ] Avoid flying beyond allowable altitude and temperature limits
+
+### Quadcopter
+- [ ] Check propellers for damage, warping or wear
+- [ ] Ensure propellers are securely attached
+- [ ] Ensure remote control antennas is attached properly
+- [ ] Ensure remote control antenna is charged separately with a power bank
+
+## After Powering on
+
+## After Takeoff
+- [ ] Maintain visual line of sight with the drone at all times
+- [ ] Avoid flying over people, animals, or private property without permission
+
+
+## Reference
+- https://support.dji.com/help/content?customId=en-us03400011764&spaceId=34&re=AU&lang=en&documentType=artical&paperDocType=paper

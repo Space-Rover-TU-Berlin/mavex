@@ -26,8 +26,6 @@ Propellers are the rotating blades that generate lift and thrust for the drone.
 - 2 x CW HQProp D5.1X5X3R
 - 2 x CCW HQProp D5.1X5X3
 
-
-
 ## Hyperlinks
 - https://hqprop.com/hqprop-d51x5x3-grey-for-cinequads-p0358.html
 - https://www.team-blacksheep.com/products/product:6115
