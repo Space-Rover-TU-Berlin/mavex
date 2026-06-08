@@ -1,0 +1,17 @@
+Author:- Akshat Goel
+
+Meeting minutes 8th June 2026:- 
+
+	1) Need confirmation from Maxi regarding Gimal camera
+	2) Need confirmation from Timothee for other parts
+	3) Part list is to be completed this week
+	4) Need access to the spot welding machine which Vasantha knows about
+	5) Nelli And Robert both have git access
+	6) TU workshop had a different spot welding equipment at the workshop
+	7) Have to put the new GPS stand on the drone
+	8) Need to pick up pace for the drone competition
+	9) Solder the Xt-60 connector on the lipo battery.
+	10) Take precaution in doing so. 
+	11) Anyone should feel free to pick up any tasks and tickets that they do. 
+	12) June - finish the hardware work on the drone
+	13) Maybe we meet on Fridays every week to work on the drone together as a team
