@@ -2,18 +2,35 @@
 title: Batteries
 ---
 
+## Lithium Polymer Batteries
+6S Lipo Battery 22.2 V 4500 mAh 120C RC Battery Soft Case with EC5 Connector 2 Pieces HOOVO for 70 mm 80 mm 90 mm EDF RC Car Truck Buggy RC Quadcopter Helicopter Aeroplane Racing Drone X-Class Drone Racing
+
+### Details
+- Brand Name: HOOVO
+- Model Number: 6S Lipo Battery
+- Battery Type: LiPo
+- Voltage: 22.2 V
+- Capacity: 4500 mAh
+- Discharge Rate: 120C
+- Connector: EC5
+- Quantity: 99.9Wh
+
+### Hyperlink
+- https://www.amazon.de/dp/B0C9HNQHM2?ref=cm_sw_r_cso_cp_apan_dp_YHFCFQXM3NZ184VFW66V&social_share=cm_sw_r_cso_cp_apan_dp_YHFCFQXM3NZ184VFW66V
+
+## Lithium-Ion Batteries
 The batteries are self made with little to no documentation
 
-## Sedaro (Big One)
-### Charging Parameters
+### Sedaro (Big One)
+#### Charging Parameters
 - Type: LiIon (Tried Once)
 - Voltage: 4V
 - Current: 4.2 A
 
-## Exotrail (Small One)
+### Exotrail (Small One)
 - Status the charging cable is damaged
 
-### Charging Parameters
+#### Charging Parameters
 - Type: LiIon (Assumption)
 - Voltage: 9.8V
 - Current: 4.2 A

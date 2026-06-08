@@ -11,20 +11,6 @@ jupyter: python3
 import pandas as pd
 ```
 
-| #  | Particular        | Manufacture               | Quantity | Comments              |
-|----|-------------------|---------------------------|----------|-----------------------|
-| 1  | Motors            | Cinequads Special Edition | 4        |                       |
-| 2  | Propellers        |                           | 4        |                       |
-| 3  | Body              |                           | 1        | Has Cracks            |
-| 4  | Batteries         |                           | 2        | One is broken         |
-| 5  | Ethernet Shield 2 | Arduino                   | 1        | Unsure if its working |
-| 6  | Switching Adapter | CUI Inc                   | 1        |                       |
-| 7  | Frame             | Cinequads Lumenier        | 1        |                       |
-| 8  | GPS Antenna       |                           | 1        |                       |
-| 9  | GPS Antenna       |                           | 1        |                       |
-| 10 | Flight Controller |                           | 1        |                       |
-| 11 | Motor Controller  |                           | 1        |                       |
-
 ## Description
 | #  | Particulars       | Description                                              |
 |----|-------------------|----------------------------------------------------------|
