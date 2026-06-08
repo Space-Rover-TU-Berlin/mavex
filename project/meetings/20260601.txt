@@ -1,0 +1,23 @@
+Progress report
+	Koustubh: 	- has secured batteries
+			- has secured simulink licences in the drone channel
+			- has found out that the drone was assambled from a bought drone kit
+			- found out that repairing broken batteries is no longer allowed in the rover team (it was decided to do that anyway)
+			- is curating a part list (still in progress)
+
+	Nelli:	- might have found a sponsorship opportunity (she will attend a corporate drone event on June 18th and present the ERC Drone to the audience)
+
+	Robert: 	- has together with Koustubh acessed the damage in the batteries and found where and how it might be rapaired
+
+	The ERC Video is complete
+
+Tasks	- Koustubh learns Matlab
+		- He will update the Git Repository
+	- Koustubh will create a part list based on the documentation of the drone kit
+		- He will ask Nelli to ask for those parts on the sponsorship event
+		- He will upload the drone kit documentation in the Git Repository
+	- Robert will calculate the drones power consupmption to verify the usability of the LiPo batteries and any batteries acquired in the future
+	- Robert and Koustubh will repair the broken battery on monday, June 8th
+	- Nellif offered to perform tests on the drone on wednesday to access the reason for the crash on May 23rd. This is impossible, as all working batteries are with Kousubh for fire safety concerns
+
+Timothee will lend us a raspberry pie
