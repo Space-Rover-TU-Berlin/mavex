@@ -2,6 +2,20 @@
 title: Inventory
 ---
 
+## Understanding Drone Components and Systems
+
+It’s important to have a clear understanding of the drone’s key components and systems:
+
+    - Flight Control System (FCS): Manages the drone’s stability, orientation, and navigation.
+    - Propulsion System: Includes the motors, propellers, and Electronic Speed Controllers (ESCs) that generate lift and enable movement.
+    - Power System: Comprises batteries and power distribution units that supply energy to the drone.
+    - Sensors and Cameras: Provide data for navigation, obstacle detection, and specific missions (e.g., cameras for aerial photography).
+    - Communication Systems: Enable the drone to communicate with the ground control station (GCS) and other drones.
+    - Payload: Any additional equipment the drone carries, such as cameras, sensors, or delivery packages.
+
+Understanding these components helps define what needs to be tested and ensures that all aspects of the drone’s operation are thoroughly evaluated.
+
+## Inventory
 - [Bill of Materials](bill-of-materials.qmd)
 - [Batteries](batteries.qmd)
 - [Frame](frame.qmd)

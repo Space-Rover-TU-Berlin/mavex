@@ -1,5 +1,5 @@
 ---
-Preflight Checklist
+title: Preflight Checklist
 ---
 
 ## Before the flight
