@@ -1,0 +1,8 @@
+---
+title: Pilot License
+---
+
+Pilot licenses are required for operating drones that exceed certain weight thresholds or are used for commercial purposes. In Germany, the requirements for pilot licenses are as follows:
+
+- For drones weighing between 2 kg and 5 kg, a basic pilot license is required. This involves passing a theoretical exam that covers topics such as airspace regulations, meteorology, and drone operation.
+- For drones weighing over 5 kg, an advanced pilot license is required. This includes both a theoretical exam and a practical flight test to demonstrate proficiency in handling larger drones.

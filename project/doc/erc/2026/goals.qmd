@@ -1,0 +1,29 @@
+---
+title: "ERC 2026 Drone Competition Goals"
+---
+
+## Summary
+The primary goal for the drone in the ERC 2026 is to demonstrate the ability to perform a fully **automated mission** with a focus on reliable and repeatable performance. This is carried out within the **Droning Sub-Task**, which is a component of the larger Navigation Task.
+
+### **1. Core Mission Objectives**
+The automated mission consists of three repeated flight sequences, each requiring the drone to achieve the following:
+*   **Take-off and Navigation:** Lift off from a designated $1\times1\text{ m}$ spot in the center of the cage.
+*   **Landing Spot Detection:** Identify a randomized landing target (a disc with a 0.5 m radius) located within a 3-meter radius of the take-off spot.
+*   **Precision Landing:** Successfully land on the target, which is achieved if any part of the drone touches it.
+
+### **2. Supporting Reconnaissance Goals**
+Within the competition's "story," the drone acts as a support tool for the rover’s reconnaissance activities. Its objectives in this context include:
+*   **Obstacle Detection:** Flying over the surface to identify potential obstacles that might impede the rover's movement.
+*   **Terrain Assessment:** Assessing the value of the terrain for future sampling activities.
+*   **Probe Localization:** Finding sealed probes containing Martian material. In the competition, teams earn points for **detecting and estimating the positions** of three probes scattered within the competition area and identifying their specific $1\times1\text{ m}$ sectors.
+*   **Mission Resilience:** Demonstrating the ability to temporarily land in a safe place (e.g., during a simulated sandstorm) and then continue to its destination, the Martian Lander Module (MLMOD).
+
+### **3. Technical and Safety Goals**
+Teams must also meet specific technical milestones to ensure the drone is fit for the mission:
+*   **Safety Verification:** Pass a mandatory **Preflight Check** to prove the implementation of features like manual override, stable mid-air hovering, autoland on demand, fail-safes for connection loss, and geofencing.
+*   **Software Implementation:** Develop all high-level logic, image processing, and decision-making exclusively using **MATLAB/Simulink**.
+*   **Hardware Customization:** Assemble the drone as a team; using off-the-shelf (COTS) drones is strictly prohibited.
+*   **Technical Excellence:** Teams can also aim for bonus points by designing a **custom landing platform** that can be attached to their rover and successfully landing the drone on it.
+
+## Actual Text
+

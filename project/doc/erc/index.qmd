@@ -1,0 +1,5 @@
+---
+title: European Rover Challenge
+---
+
+- [ERC 2026](2026/index.qmd)

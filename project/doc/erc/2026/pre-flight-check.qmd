@@ -1,0 +1,24 @@
+---
+title: Pre-flight Check
+---
+
+The pre-flight check is a mandatory task that all teams must complete before participating in the drone competition. The purpose of this check is to ensure that the drone is safe to fly and meets all the necessary requirements for the competition.
+
+## Appendix 6 – Preflight Check Description
+
+Before a team is allowed to attempt the Droning Sub-Task, they must successfully pass the pre-flight check of all the features listed in section "7.3.2.2.2 Preflight Check of Safety Features". This attachment contains description of standard course of actions of the pre-flight check. It is meant to serve as a guide for participating teams to prepare to ensure the check is conducted in a timely manner.
+
+1. The drone may already be placed in the middle of the cage.
+2. The team shall present their configuration of the geofence.
+3. The team shall show/explain their implementation of fail-safe mechanisms.
+4. The remaining features are going to be presented in action. Drone's pilot should always announce their
+actions ahead of time. If at any point the drone gets too close to the edge of the cage, pilot shall intervene
+to move the drone away from the net or attempt to perform emergency landing. While performing this
+test flight the team shall show Jury how they receive live telemetry readings and video feed.
+5. First, drone's pilot shall manually (remotely) pick the drone off the ground and move around to
+demonstrate that the drone is capable of stable operation.
+6. Then, on Jury's instruction, pilot shall either switch drone into automated mode or land the drone and
+start it up in automated mode. The automated mode may either be the program used to execute the
+Droning Task or a different automated flight mode prepared for the purpose of the pre-flight check.
+7. On Jury's instruction, pilot shall take manual (remote) control over the drone.
+8. On Jury's confirmation, pilot may land the drone, and team may prepare the drone for the task.

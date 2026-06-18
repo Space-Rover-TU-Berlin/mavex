@@ -1,4 +1,4 @@
-id,type,manufacturer,quantity,condition,hyperlink
+id,type,manufacturer,quantity,condition,notes
 1,electrical motors,Cinequads Special Edition,4,,
 2,propellors,,4,,
 3,body,,1,,
@@ -9,3 +9,4 @@ id,type,manufacturer,quantity,condition,hyperlink
 8,GPS Antenna,,2,,
 9,Flight Controller,,1,,
 10,Motor Controller,,1,,
+11,LiPo Battery,HOOVO,2,Good,EC5 Connectors

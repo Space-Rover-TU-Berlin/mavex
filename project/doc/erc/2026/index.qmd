@@ -6,3 +6,5 @@ title: ERC2026
 - [Rules](https://notebooklm.google.com/notebook/94a430fc-fbda-411d-98dd-10b54d1379ad)
 - [Demonstration](demo-video.qmd)
 - [Procurement](procurement.qmd)
+- [Goals](goals.qmd)
+- [Compliance](compliance.qmd)

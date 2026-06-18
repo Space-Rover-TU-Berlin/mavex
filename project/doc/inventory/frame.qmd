@@ -2,7 +2,6 @@
 title: "Drone AirFrame"
 ---
 
-# Airframe
 This is frame of the body over which the drone is built. It is the main structure of the drone and it holds all the components together. The airframe is designed to be lightweight and durable, allowing the drone to fly efficiently while also being able to withstand crashes and other impacts. The airframe can be made from various materials such as carbon fiber, aluminum, or plastic, depending on the specific requirements of the drone. This is the skeleton of the drone. 
 
 ## Manufacturer

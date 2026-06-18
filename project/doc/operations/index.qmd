@@ -1,8 +1,10 @@
 ---
-title: Compliance
+title: Operations
 ---
 This section covers the compliance requirements for drone operation, including safety checks, preflight checklists, and regulations. It is essential to adhere to these guidelines to ensure safe and legal drone usage.
 
 - [RFT Cage](tub-cage.qmd)
-- [German Law]()
-- [Licenses]()
+- [Preflight Checklist](preflight-checklist.qmd)
+- [Airworthiness](airworthiness.qmd)
+- [German Law](german-law.qmd)
+- [Pilot Licenses](pilot-licenses.qmd)

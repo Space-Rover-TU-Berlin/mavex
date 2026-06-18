@@ -1,10 +1,9 @@
 ---
 title: MAVEX
+authors: 
+    - Koustubh S. (FUB)
 institute: Berlin University Alliance
 ---
-
-# MAVEX
-European Rover Challenge
 
 ## Domain
 Quadcopter Drone
@@ -12,13 +11,6 @@ Quadcopter Drone
 ## Planning
 - <https://miro.com/app/board/uXjVKTcbPQk=/?focusWidget=3458764671344365244>
 
-## Engg
-### Body Design
-### Control Circuits
-### Software
-
 ## References
-- <https://ardupilot.org/>
-- <https://www.ecalc.ch/>
-- <https://www.thingiverse.com/>
-- <https://books.google.de/books/about/Fundamentals_of_Drone_Technology.html?id=AtMcEQAAQBAJ>
+- <https://www.bears-space.de/projects/erc-rover/>
+

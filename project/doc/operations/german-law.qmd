@@ -1,0 +1,8 @@
+---
+title: German Law
+---
+
+German drone regulations are governed by the Luftverkehrs-Ordnung (LuftVO) and the Luftfahrtgesetz (LuftG). Key points include:
+
+- Drones under 2 kg can be flown without a license, but must be registered with the Luftfahrt-Bundesamt (LBA).
+- Drones over 2 kg require a license and must be registered with the LBA.   

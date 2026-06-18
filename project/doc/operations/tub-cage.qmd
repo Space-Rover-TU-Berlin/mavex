@@ -1,0 +1,11 @@
+---
+title: TUB Cage
+---
+
+- [ ] One needs a key from the department
+- [ ] One also needs an authorized person from the department to be
+  present while you are in the cage
+- [ ] People from non-RFT departments are not allowed unsupervised in the
+  cage
+- [ ] Professor Martin or anyone who is employed within the faculty is the
+  authority who controls access to the page

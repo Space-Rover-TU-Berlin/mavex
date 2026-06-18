@@ -1,0 +1,21 @@
+---
+title: Compliance
+---
+
+This task is to be performed inside the cage, therefore no regulations are applicable as drones will be
+used in fully enclosed and safe environment.
+- However, please take into account that if you decide to fly outside the competition and outside the
+cage, e.g. to test something you need to follow the local PL/EU UAV flying rules – please check the local
+rules for use of the drones in Poland. Also check website of the ULC (Civil Aviation Authority in Poland)).
+- Any flights performed outside of the drone cage are teams’ responsibility (consider local droning
+rules and obtaining additional aircraft damage insurance – Aero Casco if you plan to perform any
+test flights outside the droning cage).
+- The accepted frequencies are as mentioned above in the section 5.2.1. Exception: RC controllers are
+not forbidden in case of drones.
+- [ ] Use of GPS/GNSS is allowed.
+- The drone can be used only in the Droning Sub-Task.
+- Before the competition drone weight is measured, and the Radio Frequency Form will be checked
+by RF Judge Team.
+
+### Subtasks
+- [Preflight Check](pre-flight-check.qmd)

@@ -6,12 +6,16 @@ website:
   title: "MAVEX"
   navbar:
     left:
+      - href: engg/index.qmd
+        text: engg
       - href: inventory/index.qmd
-        text: Inventory
+        text: inventory
       - href: learning/index.qmd
-        text: Learning
-      - href: 2026/index.qmd
-        text: "2026"
+        text: learning
+      - href: operations/index.qmd
+        text: ops
+      - href: erc/index.qmd
+        text: "erc"
 format:
   html:
     theme:

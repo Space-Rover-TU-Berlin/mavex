@@ -2,14 +2,7 @@
 title: Propellers
 ---
 
-# Propellers
 Propellers are the rotating blades that generate lift and thrust for the drone.
-
-## Manufacturer
-- HQProp
-
-## Model
-- D5.1X5X3 Grey for Cinequads (2CW+2CCW)-Poly Carbonate
 
 ## Description
 - Propeller Diameter: 5.1 inch       
@@ -25,6 +18,12 @@ Propellers are the rotating blades that generate lift and thrust for the drone.
 ### Includes
 - 2 x CW HQProp D5.1X5X3R
 - 2 x CCW HQProp D5.1X5X3
+
+## Manufacturer
+- HQProp
+
+## Model
+- D5.1X5X3 Grey for Cinequads (2CW+2CCW)-Poly Carbonate
 
 ## Hyperlinks
 - https://hqprop.com/hqprop-d51x5x3-grey-for-cinequads-p0358.html
