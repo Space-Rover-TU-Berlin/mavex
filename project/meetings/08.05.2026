@@ -1,0 +1,43 @@
+Protokoll 08.05.2026 14:45-18:00
+Vasant wants to know who´s working what: we need to figure that out 
+Group Lead?
+Vasant will be helping as an Advisor and give us a rough plan of aktion
+Two Batteries for Drone in StudiSatLab
+Possibly in the fire proof bag with the Rover Batteries there
+Always need to be kept in fire proof bag and only be charged or uncharged with someone watching them
+Find Charger/Different Options for that
+Drone introduktion
+Quadrocoptor
+Class C1 less then 2k but more then 250g 
+IMPORTANT Class C1 has changed, 
+Weight should be around 800-900gr everything included 
+Needs to be weighted soon
+Without Battery around 500gr
+Carbon fibre frame
+Brushless motors
+5inch propellors
+4 spares are existing, noone knows where they are
+3 blades/motor
+ESC/Electric Speed Controller
+Flight Controller
+Navigation comand/controll
+Sender/reciever
+Never disturb extended setting in cathegorie config
+Green light, ready to fly with GPS assistance
+Blue lights, ready to fly without GPS Assistance/only with manual input
+Amber/yellow light, some setup not ready, not ready to fly
+Red light, something is terible wrong, do not fly
+Make sure props are off when doing any non fly relatet tests, because of safety hazards
+Small Battery has some defekt, needs to be opened and redone
+Camera and telemetrie are missing, rasberry pi needs to be added
+Sender is damaged on the remote, needs to be externally charged/sourced with energy
+Needs Registration and Identifikation Number
+Under Vasants Name registered at the Moment 
+He won´t be coming to ERC (probably?)
+We need to do Certificate for Class C1(or higher? Weight dependend
+30 Euro per Person and Certificate
+Insurance for Drone needs to be linked to number from Test/Certificate
+That number needs to be on the Drone
+Insurance is not mandatory for ERC
+Does Rover have Insurance that may cover it? -No, only driven inside/enclosed space as well
+ERC Requirements? Look them up again, standarts? What exactly are the tasks?
