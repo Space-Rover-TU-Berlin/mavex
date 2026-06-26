@@ -1,0 +1,17 @@
+---
+title: Digital HD FPV System
+---
+
+https://www.caddxfpv.com/products/walksnail-avatar-hd-goggles-l-with-moonlight-kit-and-gm3
+
+## Components
+### Avatar Goggles L
+### Moonlight Kit
+### Avatar FPV VRX
+### GM Series (CADDXFPV)
+### Camera Rotator
+- ESP32 WROOM32
+
+## Missing
+### 3D Printed Mounting Base and Antenna Bracket for CaddxFPV GM3 Gimbal
+- https://www.caddxfpv.com/products/gm3-gimbal-mounting-base-and-antenna-bracket
