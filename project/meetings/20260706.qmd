@@ -1,0 +1,34 @@
+---
+title: 06 July 2026
+author: Koustubh S.
+---
+
+- Koustubh was informed of the biweekly meeting decision by Nelli.
+- Koustubh's Examination is from next week
+- There was discussion on what should be ordered
+- Koustubh suggested ordering camera, GPS stands and other articles
+  from ERC drone budget and spare motors from the Non-profit
+  sponsor. Akshat supported the measure.
+- Robert was in support of using the ERC drone budget to order the
+  parts scheduled for ordering, but did not want to order the motors,
+  as he deemed the likelihood of existing motors failing minimal.
+- Nelli was opposed to using the ERC drone budget at all. She wanted to
+  order all the parts from the Non-profit sponsor, except the spare motors.
+- Everyone gave updates on their tickets and the Kanban board was
+  updated to reflect the same
+- Nelli raised concerns over being assigned as pilot for the drone for
+  insurance purposes. Koustubh told her to take it up with Maximilian
+  von Unwerth as he should more knowledgeable about that matter.
+- Koustubh informed Robert about the procedure to get re-imbursement
+  for the money he had spent on screws. The process was simply to send
+  the invoice to Timothee and make the entry in the shared Google
+  spreadsheet. Timothee responded that the amount being too small, he
+  was not interested in getting the reimbursement.
+- Robert suggested that a spot welder for Li-Ion batteries is
+  available on Amazon for 15€. Koustubh offered to buy the spot welder
+  for his private use and use the spot welder to fix the Li-Ion batteries.
+- Akshat has not been able to make progress on his tasks due to his
+  pressing academic commitments. He has promised to make progress in
+  the coming weeks.
+- Koustubh is going to share his deliverables for this project after
+  discussion with Maximilian von Unwerth and Simon Stapperfend.
