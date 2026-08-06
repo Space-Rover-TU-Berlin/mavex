@@ -2,20 +2,20 @@
 title: Inventory
 ---
 
-| #  | Particulars       | Description                                              |
-|----|-------------------|----------------------------------------------------------|
-| 1  | [Frame](frame.qmd)| Aerospace grade carbon fiber frame with 225 mm wheelbase |
-| 2  | Propellers        | Tri-blade (5153) high-pitch polycarbonate propellers     |
-| 3  | [Motors](motors.qmd)| 1800 Kv BLDC motors with (28mm * 07mm) stator size       |
-| 4  | ESC               | 32 Bit 60A 4in1 Electronic Speed Controller              |
-| 5  | Power module      | Power brick mini 15W output                              |
-| 6  | Flight Controller | Pixhawk Cube Black with chibiOS & Ardupilot Frimware     |
-| 7  | Telemetry         | RF Design EU868Ux - (500mW / 868 MHz)                    |
-| 8  | Telecommand       | ELRS RP1 - (100mW / 2.4 GHz) Full Duplex Receiver        |
-| 9  | Video Transmitter | Analog 48CH - (2.5W / 5.8 GHz) VTx                       |
-| 10 | TT&C Antennas     | 1x Omnidirrectional (5.8 GHz) & 2x Dipole (868 MHz)      |
-| 11 | Primary Camera    | Analog 1500TVL 6ms Low Latency CMOS Camera.              |
-| 12 | Secondary Camera  | Digital 4K 60FPS GoPro for HD recording                  |
-| 13 | GPS 1             | Radiolink S100 - (1.3GHz, L1 band)                       |
-| 14 | GPS 2             | Here 3+ CAN - (1.3GHz, L2 band)                          |
-| 15 | [Battery](batteries.qmd)| Tesla Lithium-Ion 6SIP (22.2V / 4.5A / 10C)              |
+| #  | Particulars                  | Description                                              |
+|----|------------------------------|----------------------------------------------------------|
+| 1  | [Frame](frame.qmd)           | Aerospace grade carbon fiber frame with 225 mm wheelbase |
+| 2  | [Propellers](propellers.qmd) | Tri-blade (5153) high-pitch polycarbonate propellers     |
+| 3  | [Motors](motors.qmd)         | 1800 Kv BLDC motors with (28mm * 07mm) stator size       |
+| 4  | ESC                          | 32 Bit 60A 4in1 Electronic Speed Controller              |
+| 5  | Power module                 | Power brick mini 15W output                              |
+| 6  | Flight Controller            | Pixhawk Cube Black with chibiOS & Ardupilot Frimware     |
+| 7  | Telemetry                    | RF Design EU868Ux - (500mW / 868 MHz)                    |
+| 8  | Telecommand                  | ELRS RP1 - (100mW / 2.4 GHz) Full Duplex Receiver        |
+| 9  | Video Transmitter            | Analog 48CH - (2.5W / 5.8 GHz) VTx                       |
+| 10 | TT&C Antennas                | 1x Omnidirrectional (5.8 GHz) & 2x Dipole (868 MHz)      |
+| 11 | Primary Camera               | Analog 1500TVL 6ms Low Latency CMOS Camera.              |
+| 12 | Secondary Camera             | Digital 4K 60FPS GoPro for HD recording                  |
+| 13 | GPS 1                        | Radiolink S100 - (1.3GHz, L1 band)                       |
+| 14 | GPS 2                        | Here 3+ CAN - (1.3GHz, L2 band)                          |
+| 15 | [Battery](batteries.qmd)     | Tesla Lithium-Ion 6SIP (22.2V / 4.5A / 10C)              |

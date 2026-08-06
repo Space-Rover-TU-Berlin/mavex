@@ -6,15 +6,25 @@ title: "Engineering"
 
 It’s important to have a clear understanding of the drone’s key components and systems:
 
-- [Flight Control System (FCS)](fcs.qmd): Manages the drone’s stability, orientation, and navigation.
-- [Propulsion System](propulsion.qmd): Includes the motors, propellers, and Electronic Speed Controllers (ESCs) that generate lift and enable movement.
-- [Power System](power.qmd): Comprises batteries and power distribution units that supply energy to the drone.
-- [Sensors](sensors.qmd): Provide data for navigation, obstacle detection, and specific missions. 
-- [Cameras](cameras.qmd): Used for capturing images and video during flight operations. 
-- [Communication Systems](communication.qmd): Enable the drone to communicate with the ground control station (GCS) and other drones.
-- [Payload](payload.qmd): Any additional equipment the drone carries, such as cameras, sensors, or delivery packages.
+- [Flight Control System (FCS)](fcs.qmd): Manages the drone’s
+  stability, orientation, and navigation.
+- [Propulsion System](propulsion.qmd): Includes the motors,
+  propellers, and Electronic Speed Controllers (ESCs) that generate
+  lift and enable movement.
+- [Power System](power.qmd): Comprises batteries and power
+  distribution units that supply energy to the drone.
+- [Sensors](sensors.qmd): Provide data for navigation, obstacle
+  detection, and specific missions.
+- [Cameras](cameras.qmd): Used for capturing images and video during
+  flight operations.
+- [Communication Systems](communication.qmd): Enable the drone to
+  communicate with the ground control station (GCS) and other drones.
+- [Payload](payload.qmd): Any additional equipment the drone carries,
+  such as cameras, sensors, or delivery packages.
 
-Understanding these components helps define what needs to be tested and ensures that all aspects of the drone’s operation are thoroughly evaluated.
+Understanding these components helps define what needs to be tested
+and ensures that all aspects of the drone’s operation are thoroughly
+evaluated.
 
 ## Flight Calculations
 - [Notebook](calculations.ipynb)
