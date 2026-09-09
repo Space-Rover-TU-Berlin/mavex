@@ -70,7 +70,7 @@ jobs:
       # 1⃣ Upload as an *artifact* (temporary, just for the next step)
       - name: Upload artifact
         id: artifaction
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./project/doc/public
 
