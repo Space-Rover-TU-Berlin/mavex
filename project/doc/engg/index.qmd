@@ -27,7 +27,7 @@ and ensures that all aspects of the drone’s operation are thoroughly
 evaluated.
 
 ## Flight Calculations
-- [Notebook](calculations.ipynb)
+- [Calculations](calculations.ipynb)
 - https://ecalc.ch/
 
 ## Route Planning

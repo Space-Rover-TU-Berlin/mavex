@@ -1,0 +1,6 @@
+---
+title: Raspberry PI 4B
+---
+Given by the Rover team to the Drone team
+
+Arduino Ethernet Shield only works with arduino
