@@ -29,6 +29,9 @@ jobs:
 
       # add software dependencies here and any libraries
 
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@bec219d24cd3e171d82865faccec33120bb574f4 # v10.1.0
+
       # From https://github.com/actions/setup-python
       - name: Setup Python
         uses: actions/setup-python@v7
@@ -58,6 +61,12 @@ jobs:
       #     target: connect
       #     CONNECT_SERVER: enter-the-server-url-here
       #     CONNECT_API_KEY: ${{ secrets.CONNECT_API_KEY }}
+
+      - name: Install uv dependencies
+        run: make dependencies
+
+      - name: Compile python notebooks
+        run: make notebooks
 
       # NOTE: If Publishing to GitHub Pages, set the permissions correctly (see top of this yaml)
       - name: Render HTML pages
