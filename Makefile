@@ -49,6 +49,7 @@ dependencies-check:            ## run self-tests
 jupyter:         ## start jupyter server
 	uv run --env-file .env jupyter notebook --no-browser --autoreload
 notebooks:
+	touch .env
 	find . -name *.ipynb ! -path "*/.ipynb_checkpoints/*" \
 	| xargs -I {} \
 	uv run --env-file .env jupyter nbconvert --execute --to notebook --inplace {}

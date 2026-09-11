@@ -1,7 +1,7 @@
 [project]
 name = "mavex"
 version = "0.1.0"
-description = "Add your description here"
+description = "MAVEX is the name of the drone."
 readme = "README.md"
 authors = [
     { name = "કૌસ્તુભ 𑘦𑘰𑘩𑘝𑘲 𑀤𑀺𑀮𑀻𑀧", email = "ksinkar@users.noreply.github.com" }
