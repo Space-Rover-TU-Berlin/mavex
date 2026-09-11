@@ -11,7 +11,7 @@ install-ps:       ## install postscript documentation
 uninstall:        ## uninstall the build packages
 install-strip:    ## install stripped executables
 clean: public	  ## delete all files that are normally created by running 'make all'.
-	$(RM) $^
+	$(RM) -r $^
 distclean: $(pwdname).bundle $(pwdname).zip $(pwdname).tar.gz $(pwdname).tar.xz  ## like clean but do not clean installdirs and parent dirs
 	$(RM) $^
 mostlyclean:      ## like clean but not all the files but not intermediate files

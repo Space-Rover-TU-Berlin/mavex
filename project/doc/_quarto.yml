@@ -1,21 +1,24 @@
 project:
   type: website
   output-dir: public
+  render:
+    - "*.qmd"
+    - "*.ipynb"
 
 website:
-  title: "MAVEX"
+  title: MAVEX
   navbar:
     left:
       - href: engg/index.qmd
         text: engg
-      - href: inventory/index.qmd
+      - href: inventory/index.ipynb
         text: inventory
       - href: learning/index.qmd
         text: learning
       - href: operations/index.qmd
         text: ops
       - href: erc/index.qmd
-        text: "erc"
+        text: erc
 format:
   html:
     theme:
