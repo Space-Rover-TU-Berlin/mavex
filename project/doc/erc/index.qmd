@@ -2,4 +2,18 @@
 title: European Rover Challenge
 ---
 
-- [ERC 2026](2026/index.qmd)
+The [European Rover Challenge](https://roverchallenge.eu/) (ERC) is the competition.
+
+## 2026
+- [Rules](https://notebooklm.google.com/notebook/94a430fc-fbda-411d-98dd-10b54d1379ad)
+- [Demonstration](2026/demo-video.qmd)
+- [Procurement](2026/procurement.qmd)
+- [Goals](2026/goals.qmd)
+- [Compliance](2026/compliance.qmd)
+
+## 2025
+- [Report](../../reports/2025/mavex-pesr-1.pdf)
+- [Report](../../reports/2025/mavex-pesr-2.pdf)
+
+## 2024
+- [Report](../../reports/2024/PESR2_2024_Navigation_Droning.pdf)
