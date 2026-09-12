@@ -1,0 +1,31 @@
+---
+name: Request for Correction
+labels: bug, governance
+description: |
+  A standardized template for reporting corrections needed in the codebase, documentation, or project structure. Please provide comprehensive details to help the maintainers diagnose and fix the issue efficiently.
+
+fields:
+  - .about:
+      required: true
+      optional: false
+      description: A concise, one-sentence summary of the correction needed.
+  - .environment:
+      required: true
+      optional: false
+      description: Specify the environment in which the issue was found (e.g., OS: Windows 10, Python: 3.10, Version: 1.2.0).
+  - .steps_to_reproduce:
+      required: true
+      optional: false
+      description: Provide precise, numbered steps to reproduce the observed issue or failure.
+  - .expected_behavior:
+      required: true
+      optional: false
+      description: Describe what the system should do or what the corrected state should be.
+  - .actual_behavior:
+      required: true
+      optional: false
+      description: Describe the incorrect or unexpected behavior observed.
+  - .suggested_fix:
+      required: false
+      optional: true
+      description: Optional. If you have a suggested fix, describe it here.

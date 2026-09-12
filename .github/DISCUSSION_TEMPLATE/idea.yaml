@@ -1,0 +1,36 @@
+---
+name: Feature Idea
+description: Suggest an idea for the project
+title: "[Idea]: "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What is your idea?
+      description: Describe the feature you'd like to see.
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why would this be useful?
+    validations:
+      required: true
+fields:
+  - .about:
+      required: true
+      optional: false
+      description: A concise summary of the proposed idea.
+  - .problem_statement:
+      required: true
+      optional: false
+      description: What problem does this idea solve, and who does it help?
+  - .scope_and_impact:
+      required: true
+      optional: false
+      description: Describe the intended scope, any dependencies, and the potential impact (time, effort, complexity).
+  - .technical_details:
+      required: true
+      optional: false
+      description: Any technical considerations, alternatives considered, or preliminary architectural thoughts.

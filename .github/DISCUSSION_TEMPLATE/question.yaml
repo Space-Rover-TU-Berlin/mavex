@@ -1,0 +1,38 @@
+---
+name: Question
+description: Ask a question
+title: "[Question]: "
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Please describe your question.
+      placeholder: What would you like to know?
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why are you asking this question?
+    validations:
+      required: true
+fields:
+  - .about:
+      required: true
+      optional: false
+      description: A concise summary of the question being asked.
+  - .environment:
+      required: true
+      optional: false
+      description: Specify the environment or context where the question arises (e.g., specific code block, document section, or environment setup).
+  - .context_details:
+      required: true
+      optional: false
+      description: Provide all necessary background information, links to related documents, or code snippets that give context to your question.
+  - .proposed_question:
+      required: true
+      optional: false
+      description: The detailed, multi-paragraph question.
+

@@ -1,0 +1,22 @@
+---
+name: File an error Report
+description: If you think there are semantic issues in the program this is place to file the report
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: description
+      description: Please describe the bug .
+      placeholder: Describe the expected behaviour of the software and the behaviour that is described by the syntax of the program
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: reproduction
+      description: Please list the steps to reproduce this bug
+      placeholder: How to reproudce this bug
+    validations:
+      required: true
