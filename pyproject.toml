@@ -9,8 +9,10 @@ authors = [
 requires-python = ">=3.14"
 dependencies = [
     "astropy>=8.0.1",
+    "bibtexautocomplete>=1.4.3",
     "jupyter>=1.1.1",
     "pandas>=3.0.5",
+    "pdf2bib>=1.2",
 ]
 
 [build-system]

@@ -48,7 +48,7 @@ dependencies-check:            ## run self-tests
 	uv pip list --outdated
 jupyter:         ## start jupyter server
 	uv run --env-file .env jupyter notebook --no-browser --autoreload
-notebooks:
+notebooks:       ## compile existing notebooks
 	touch .env
 	find . -name *.ipynb ! -path "*/.ipynb_checkpoints/*" \
 	| xargs -I {} \
