@@ -55,11 +55,8 @@ installdirs:      ## create the install directors
 	mkdir public
 configure:        ## configure the build environment
 	quarto install tinytex
-open: $(DIST)/index.html ## open the document
-ifeq ($(OS), Linux)
-	xdg-open $<
-else
-	open $<
-endif
-
-.PHONY: configure build run help
+references:  ## generate the references file
+	find -L . -name "*.pdf" | parallel uv run pdf2bib {} >> references.bib
+	sed --in-place=.bak -e '/(All intermediate output will be suppressed\. To see additional outuput\, use the command \-v)/d' references.bib
+lint: references.bib            ## lint the bibtex file
+	uv run btac -i $<
