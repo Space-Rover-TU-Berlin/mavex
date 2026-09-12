@@ -1,0 +1,2 @@
+- You can come to BEARS meeting held every Tuesday at 18:00 CET
+- You can reach out to individual contributors for paid support

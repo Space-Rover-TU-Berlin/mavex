@@ -24,40 +24,47 @@ python notebook.
 - [act](https://nektosact.com/)
 
 Check if all the dependencies are correctly installed
+
 ``` bash
 make configure
 ```
 
-If you get error for any of the above, please install the software on
-your system to be able to work with this documentation
+If you get error for any of the above, please install the software on your system to be able to work with this documentation
 
 ### List targets
+
 ``` bash
 make help
 ```
 
 ### Generation of website
+
 ``` bash
 cd project/doc
 make html
 ```
 
 The website is then generated in the `website/public` folder.
+
 ``` bash
 open project/doc/public/index.html
 ```
+
 ### Compile the notebooks in place
+
 ``` bash
 make notebooks
 ```
 
 ### Download the dependencies
+
 ``` bash
 gh extension install https://github.com/nektos/gh-act
 make dependencies
 ```
 
 ### Testing github action workflows locally
+
 ``` bash
 gh act push
 ```
