@@ -4,8 +4,10 @@ title: "Engineering"
 
 ## Functional Understanding of Components and Systems
 
-It’s important to have a clear understanding of the drone’s key components and systems:
+It’s important to have a clear understanding of the drone’s key
+[components](components/index.qmd) and systems:
 
+### Systems
 - [Flight Control System (FCS)](fcs.qmd): Manages the drone’s
   stability, orientation, and navigation.
 - [Propulsion System](propulsion.qmd): Includes the motors,
@@ -22,9 +24,9 @@ It’s important to have a clear understanding of the drone’s key components a
 - [Payload](payload.qmd): Any additional equipment the drone carries,
   such as cameras, sensors, or delivery packages.
 
-Understanding these components helps define what needs to be tested
-and ensures that all aspects of the drone’s operation are thoroughly
-evaluated.
+Understanding these [components](components/index.qmd) helps define
+what needs to be tested and ensures that all aspects of the drone’s
+operation are thoroughly evaluated.
 
 ## Flight Calculations
 - [Calculations](calculations.ipynb)
